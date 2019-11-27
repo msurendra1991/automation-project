@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3903" started-at="2019-11-27T15:26:49Z" finished-at="2019-11-27T15:26:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3903" started-at="2019-11-27T15:26:49Z" finished-at="2019-11-27T15:26:52Z">
+      <class name="honestfoodcompany.famework.tests.AddProduct">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:honestfoodcompany.famework.tests.AddProduct@2b98378d]" name="initialize" is-config="true" duration-ms="13347" started-at="2019-11-27T15:26:35Z" finished-at="2019-11-27T15:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="userSignInTest(java.lang.String)[pri:0, instance:honestfoodcompany.famework.tests.AddProduct@2b98378d]" name="userSignInTest" duration-ms="3877" started-at="2019-11-27T15:26:49Z" data-provider="AddressData" finished-at="2019-11-27T15:26:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Semperstraße 44, 1180 Wien, Austria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignInTest -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:honestfoodcompany.famework.tests.AddProduct@2b98378d]" name="TeardownTest" is-config="true" duration-ms="0" started-at="2019-11-27T15:26:52Z" finished-at="2019-11-27T15:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- honestfoodcompany.famework.tests.AddProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
