@@ -1,2 +1,2 @@
 # automation-project
-java, selenium,testNG AND CUCUMBER
+java, selenium,testNG and cucumber
